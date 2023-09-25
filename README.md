@@ -30,7 +30,7 @@
 
 ### - Learning :
 - ✨ Android Developing 
-- ✨  Cubersecurity 
+- ✨  Cybersecurity 
 
 ### - Hobbies : 
 - ✨ Gamer 🎮
