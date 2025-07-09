@@ -53,10 +53,16 @@
 
 ---
 
-### 📲 Let's Connect!
+### 🌐 Find Me Online
 
 <p align="center">
-  <a href="https://www.instagram.com/YourS4nty/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  <a href="https://your4portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌍%20Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://codepen.io/YourS4nty" target="_blank">
+    <img src="https://img.shields.io/badge/🧪%20CodePen-Projects-black?style=for-the-badge&logo=codepen" />
+  </a>
+  <a href="https://www.instagram.com/YourS4nty/" target="_blank">
+    <img src="https://img.shields.io/badge/📸%20Instagram-@YourS4nty-ff69b4?style=for-the-badge&logo=instagram" />
   </a>
 </p>
