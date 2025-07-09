@@ -1,77 +1,62 @@
-<h1 align="center">
- Hi I'm YourS4nty 👋
-</h1>
- 
-<p align="center">
-<img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
-</p>
-
-<!-- About Me -->
-<h3 align="center">About Me</h3>
-<p align="center">
- Welcome To My Corner On GitHub! I'm Santy, A Technology Enthusiast With A Passion For Coding And Creativity. Here's A Quick Glimpse Of What Makes Me "Me":
-
-  - 🚀 Enthusiastic about innovation and technological exploration.
-  - 💻 Software development and coding enthusiast.
-  - 📚 Avid reader and constant learner.
-  - 📷 Amateur photographer in my free time.
-  - 🎵 Music lover of all genres.
-  - ❤️ And Your Lover :)
-
-  I hope you enjoy exploring my profile and projects!
-</p>
-
-
-# Who I Am? 💬 :
-
-### - I'm 20 years, I'm a {Front & Back End} Developer... Oh And I'm Colombian :D.
-
-<img height="300px" width="400" alt="GIF" align="right" src="https://c.tenor.com/-OiahIYVp_AAAAAC/player.gif">
-
-### - Learning :
-- ✨ Android Developing 
-- ✨  Cybersecurity 
-
-### - Hobbies : 
-- ✨ Gamer 🎮
-- ✨ Code Something
-- ✨ Pfff Sleep, i guess Hah
-
-
-<div align="center" style="margin-top: 20%;"></div>
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
+<h1 align="center">✨ Hey, I'm Santy! 👋</h1>
 
 <p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+  <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif" width="350"/>
 </p>
 
+<p align="center">
+  💻 Fullstack Developer | 🎮 Minecraft Plugin Dev | 📸 Photographer | 🎶 Gaga Lover  
+</p>
 
+---
 
-# Contact Me :
+### 🔥 About Me
 
-<p>
- </br>
+- 🇨🇴 From Colombia to the code universe  
+- 💻 Passionate about building **fullstack apps**, crafting **Minecraft minigames**, and exploring **creative tech**  
+- 🚀 Currently working with:  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Java** (Minecraft plugins & backend)  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **HTML/CSS/JS**, **Astro**, **Vue**, **Node.js**, **NPM**  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Python** & a bit of **PHP**  
+- 🧠 Learning every day and breaking things on purpose just to fix them  
+- 🎧 Fueled by coffee, code & **Lady Gaga**'s music  
 
+---
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+### 🛠️ My Toolbox
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,vue,astro,nodejs,python,php,npm" /><br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,git,figma,linux" />
+</p>
 
-If you want to communicate with me about anything, either for any questions or just to hang out and talk or if you want to play together, just send me a message, see you!!.
+---
 
-<a href="https://www.instagram.com/MrS4nty/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram.png" />
-</a>
+### 🎮 Minecraft Side Quest
+
+- 🌟 I create **custom minigames**, **FFA systems**, and other server features using:
+  - 🔸 **Java + Spigot/ProtocolLib**
+  - 🔸 **SkriptLang** for rapid scripting
+- 🧩 Crafting gameplay mechanics one command at a time
+
+---
+
+### 📸 Extras
+
+- 📷 Amateur photographer with a passion for visuals  
+- 🎵 Forever a Little Monster 💅  
+- 🧪 I love experimenting with new tech stacks just for fun  
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300"/>
+</p>
+
+---
+
+### 📲 Let's Connect!
+
+<p align="center">
+  <a href="https://www.instagram.com/YourS4nty/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
 </p>
