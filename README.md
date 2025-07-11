@@ -1,11 +1,11 @@
-<h1 align="center">✨ Hey, I'm Santy! 👋</h1>
+<h1 align="center">✨ Hey, I'm Santiago! 👋</h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif" width="350"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhoZ2Z2MHhxZnMzNTJxcWJpZXQzczcyc20wMTRoaG93MXNlemw3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWscyl3Uo9eCGRdWvN/giphy.gif" width="350"/>
 </p>
 
 <p align="center">
-  💻 Fullstack Developer | 🎮 Minecraft Plugin Dev | 📸 Photographer | 🎶 Gaga Lover  
+  💻 Fullstack Developer | 🎮 Minecraft Plugin Dev | 📸 Photographer | 🎶 Lady Gaga  
 </p>
 
 ---
@@ -44,11 +44,11 @@
 ### 📸 Extras
 
 - 📷 Amateur photographer with a passion for visuals  
-- 🎵 Forever a Little Monster 💅  
+- 🎵 Forever a Gaga Listener 💅  
 - 🧪 I love experimenting with new tech stacks just for fun  
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzY1Y3M3bjAxeGdhcm00YW01dmdnczdpcG83aXV2eWtmOWlzN3diOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FQ8vWwIkUVqll3dW3w/giphy.gif" width="300"/>
 </p>
 
 ---
